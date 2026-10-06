@@ -1,0 +1,20 @@
+{
+  "name": "smart-weather",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^2.27.0",
+    "dotenv": "^18.0.5",
+    "mqtt": "^5.16.0",
+    "pdfkit": "^0.20.2",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "github:pedroslopez/whatsapp-web.js"
+  }
+}
